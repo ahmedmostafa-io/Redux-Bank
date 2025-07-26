@@ -6,7 +6,7 @@ A simple banking application built using _React_ and _Redux, demonstrating the f
 
 ## 🚀 Demo
 
-[Live Demo](https://your-demo-link.com)
+[Redux-Bank-App](https://redux-bank-pi.vercel.app/)
 
 ---
 
